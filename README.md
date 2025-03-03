@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Sanira! 👋  
+🎓 **Undergraduate | Software Engineering | University of Kelaniya**  
 
-<!--
-**Sanira2003/Sanira2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **About Me:**  
+- 🔹 Passionate about **Full-Stack Development** and **Data Science**.  
+- 🔹 Continuously learning and exploring new technologies.  
+- 🔹 Interested in building scalable and efficient applications.  
 
-Here are some ideas to get you started:
+🔧 **Tech Interests:**  
+- 🌐 Web Development (Frontend & Backend)  
+- 📊 Data Science & Analytics  
+- 🛠️ Software Engineering Best Practices  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Let's Connect:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanira-deneth-615013320/)  
+[![GitHub](https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanira2003)  
+
+💡 *Always eager to learn and collaborate!*  
