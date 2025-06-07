@@ -1,10 +1,6 @@
  <h1 align="center">Hi 👋, I'm Sanira</h1>
 <h3 align="center">A passionate Full-Stack Developer & Data Science enthusiast from Sri Lanka 🇱🇰</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanira2003&label=Profile%20views&color=0e75b6&style=flat" alt="sanira2003" />
-</p>
-
 ---
 
 ### 🚀 About Me
